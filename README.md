@@ -21,7 +21,8 @@ S.No	Components/Software	Specification
 
 **Circuit Diagram**
 
-(Insert Proteus circuit diagram here.)
+<img width="1920" height="1080" alt="Screenshot 2026-10-27 090631" src="https://github.com/user-attachments/assets/e7642ebc-4c12-4bb8-a60c-c02b5306869b" />
+
 
 **Theory**
 
@@ -70,7 +71,8 @@ Observe the square-wave output and verify the generated frequency.
 Adjust the potentiometer and note the corresponding change in output frequency.
 
 **Output**
-	
+<img width="1385" height="876" alt="Screenshot 2026-10-27 090325" src="https://github.com/user-attachments/assets/d27c685c-8747-430b-855a-52408e8a7a58" />
+
 	
 (Insert Proteus output diagram here.)
 
